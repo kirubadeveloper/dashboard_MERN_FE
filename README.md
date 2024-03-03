@@ -1,30 +1,7 @@
-# React + TypeScript + Vite
+![Screenshot 2024-03-03 at 12-14-07 SmartFinance - Predict Trend](https://github.com/kirubadeveloper/dashboard_MERN_FE/assets/80045274/3c5c5242-905d-4fd6-9df8-a82b0d2fd9bd)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+![Screenshot 2024-03-03 at 12-14-22 SmartFinance - Predict Trend](https://github.com/kirubadeveloper/dashboard_MERN_FE/assets/80045274/db568c3e-bd84-414d-855c-448a69081863)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+![Screenshot 2024-03-03 at 12-14-31 SmartFinance - Predict Trend](https://github.com/kirubadeveloper/dashboard_MERN_FE/assets/80045274/4a390da4-3f73-491a-a93f-2235ff8a9e88)
